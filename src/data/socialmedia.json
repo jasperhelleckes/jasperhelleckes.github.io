@@ -4,19 +4,19 @@
       "alt": "mail",
       "image": "/images/icons/mail.png",
       "imageDark": "/images/icons/mail.png",
-      "link": "mailto:jasperalbers@posteo.de"
+      "link": "mailto:jasperhelleckes@posteo.de"
     },
     {
       "alt": "github",
       "image": "/images/icons/github.svg",
       "imageDark": "/images/icons/github-dark.svg",
-      "link": "https://github.com/jasperalbers"
+      "link": "https://github.com/jasperhelleckes"
     },
     {
       "alt": "linkedin",
       "image": "/images/icons/linkedin.png",
       "imageDark": "/images/icons/linkedin.png",
-      "link": "https://www.linkedin.com/in/jasper-albers/"
+      "link": "https://www.linkedin.com/in/jasper-helleckes/"
     },
     {
       "alt": "scholar",
